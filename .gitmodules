@@ -1,0 +1,6 @@
+[submodule "py-brain-inventory"]
+	path = py-brain-inventory
+	url = git@github.com:brain-image-library/py-brain-inventory.git
+[submodule "py-hubmap-inventory"]
+	path = py-hubmap-inventory
+	url = git@github.com:hubmapconsortium/py-hubmap-inventory.git
